@@ -5,6 +5,10 @@ clarinet requirements add <Contract Address>
 - mainnet: [SP2PABAF9FTAJYNFZH93XENAJ8FVY99RRM50D2JG9.nft-trait.nft-trait]
 - testnet: [ST1NXBK3K5YYMD6FD41MVNP3JS1GABZ8TRVX023PT.nft-trait.nft-trait]
 
+# Getting Testnet
+
+Testnet URL: https://platform.hiro.so/faucet
+
 
 # Preamble
 
