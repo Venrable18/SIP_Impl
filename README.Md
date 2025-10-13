@@ -3,7 +3,13 @@
 clarinet requirements add <Contract Address>
 
 - mainnet: [SP2PABAF9FTAJYNFZH93XENAJ8FVY99RRM50D2JG9.nft-trait.nft-trait]
-- testnet: [ST1NXBK3K5YYMD6FD41MVNP3JS1GABZ8TRVX023PT.nft-trait.nft-trait]
+- testnet: [ST1NXBK3K5YYMD6FD41MVNP3JS1GABZ8TRVX023PT.nft-trait]
+
+clarinet requirements add ST1NXBK3K5YYMD6FD41MVNP3JS1GABZ8TRVX023PT.nft-trait
+
+# Alternative
+
+You can define your own custom NFT trait as a contract, then, import and use incases when you want 
 
 # Getting Testnet
 
