@@ -1,9 +1,9 @@
 
 ;;Use the NFT trait
-(use-trait nft-trait .nft-trait.nft-trait)
+(use-trait nft-trait .nft-trait-v2.nft-trait)
 
 ;;Implement the SIP-009 NFT trait
-(impl-trait .nft-trait.nft-trait)
+(impl-trait .nft-trait-v2.nft-trait)
 
 ;;Variables Definition
 (define-non-fungible-token Sacasm uint)
